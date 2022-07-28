@@ -92,7 +92,8 @@ https://github.com.
 <details>
   <summary>Udacity Version Control with Git</summary>
 
-  <add screens here>
+  ![udacity](https://github.com/Serge044/kottans-frontend/blob/main/task_git-intro/udacity.png)
+  ![udacity](https://github.com/Serge044/kottans-frontend/blob/main/task_git-intro/udacity1.png)
 
 </details>
 
@@ -103,13 +104,21 @@ https://github.com.
 <details>
   <summary>learngitbranching</summary>
 
-  <add screens here>
+![learngitbranching.js.org](https://github.com/Serge044/kottans-frontend/blob/main/task_git-intro/learngitbranching.js.org.png)
+![learngitbranching.js.org](https://github.com/Serge044/kottans-frontend/blob/main/task_git-intro/learngitbranching.js.org1.png)
 
 </details>
   
 -- -
   
 **Communication using Markdown** - everything is well understood + interesting submission using GitHub bot, I will also save a few basic syntax expressions here:
+
+<details>
+  <summary>screenshot</summary>
+
+![Communication using Markdown](https://github.com/Serge044/kottans-frontend/blob/main/task_git-intro/Communicating%20using%20Markdown.png)
+
+</details>
 
 
 # ```# Heading level 1```
@@ -139,7 +148,7 @@ https://github.com.
 
 > [link](https://en.wikipedia.org/wiki/Link) ```[<link_name>](<url>)```
   
-> ![<kottans_logo>](<url>) ```![<img_name>](<url>)```
+> ![<kottans_logo>](https://github.com/Serge044/kottans-frontend/blob/main/task_git-intro/Kottans.png) ```![<img_name>](<url>)```
 
 ~~~
 ```
