@@ -179,3 +179,18 @@ https://github.com.
 -- -
   
 And also a [link](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline) to interesting explanations of why should text files end with a newline which I came across when encountering errors during a pool request.
+
+-- -
+
+## Linux CLI, and HTTP
+
+<details>
+  <summary>Linux Survival</summary>
+
+  ![LinuxSurvival]()
+  ![LinuxSurvival]()
+  ![LinuxSurvival]()
+  ![LinuxSurvival]()
+  ![LinuxSurvival]()
+
+</details>
