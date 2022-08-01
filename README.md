@@ -2,7 +2,7 @@
 
 ### General
 - [x] [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
-- [ ] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
+- [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
 - [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
 ### Front-End Basics
 - [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
@@ -187,10 +187,16 @@ And also a [link](https://stackoverflow.com/questions/729692/why-should-text-fil
 <details>
   <summary>Linux Survival</summary>
 
-  ![LinuxSurvival]()
-  ![LinuxSurvival]()
-  ![LinuxSurvival]()
-  ![LinuxSurvival]()
-  ![LinuxSurvival]()
+  ![LinuxSurvival](https://github.com/Serge044/kottans-frontend/blob/main/task_linux_cli/LinuxSurvival0.png)
+  ![LinuxSurvival](https://github.com/Serge044/kottans-frontend/blob/main/task_linux_cli/LinuxSurvival1.png)
+  ![LinuxSurvival](https://github.com/Serge044/kottans-frontend/blob/main/task_linux_cli/LinuxSurvival2.png)
+  ![LinuxSurvival](https://github.com/Serge044/kottans-frontend/blob/main/task_linux_cli/LinuxSurvival3.png)
+  ![LinuxSurvival](https://github.com/Serge044/kottans-frontend/blob/main/task_linux_cli/LinuxSurvival4.png)
 
 </details>
+
+**Linux Survival** is preatty interesting resource with a rather old-fashioned design, but this, on the contrary, makes it more interesting visually. A good platform to learn theory and immediately practice, the only thing that I would like to change is that when you have to perform a task, it does not give you the opportunity to think for yourself, because even if you write the wrong command, the answer immediately appears to be correct, but I want to make one more try on my own ;)
+
+**HTTP & HTTPS** is a very important and at the same time extensive topic. I especially liked the description of all types of errors. In the future(near future;)), it will be necessary to deal with this in more detail, because there is a lot of information, and it is quite difficult to catch everything at once.
+
+**Configuring Linux Web Servers** - I will cover this topic a little later, but I will definitely dig in this direction, because I need it to create a smart home system with my personal settings.
