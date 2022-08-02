@@ -3,7 +3,7 @@
 ### General
 - [x] [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
 - [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
-- [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
+- [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
 ### Front-End Basics
 - [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
 - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
@@ -200,3 +200,43 @@ And also a [link](https://stackoverflow.com/questions/729692/why-should-text-fil
 **HTTP & HTTPS** is a very important and at the same time extensive topic. I especially liked the description of all types of errors. In the future(near future;)), it will be necessary to deal with this in more detail, because there is a lot of information, and it is quite difficult to catch everything at once.
 
 **Configuring Linux Web Servers** - I will cover this topic a little later, but I will definitely dig in this direction, because I need it to create a smart home system with my personal settings.
+
+-- -
+
+## Git Collaboration
+
+[Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) (week 3 and 4) - 
+I especially liked the explanation of the topic Tracking Issues (Week 4, Managing Projects), and in general quite good explanations and examples, I liked this course.
+
+<details>
+  <summary>screenshots</summary>
+
+  ![coursera_week3](https://github.com/Serge044/kottans-frontend/blob/main/task_git_collaboration/coursera_week3.png)
+  ![coursera_week4](https://github.com/Serge044/kottans-frontend/blob/main/task_git_collaboration/coursera_week4.png)
+
+</details>
+
+[learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk) - as I said earlier (in Git Basics), this is a pretty good resource with cool visualization, although this time, despite some experience, it was more difficult.
+And I also found an error in the word during the translation into Ukrainian (yes, I know that it is definitely not the most important thing, but I wanted to correct it first, and secondly to practice with pool requests), so I sent a request for a change. If for the time of the course will be answered, I will add an update to this topic.
+
+<details>
+  <summary>screenshots</summary>
+
+![learngitbranching.js.org](https://github.com/Serge044/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.js.org.png)
+![learngitbranching.js.org](https://github.com/Serge044/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.js.org_2.png)
+![pull-request](https://github.com/Serge044/kottans-frontend/blob/main/task_git_collaboration/pull-request.png)
+
+</details>
+
+[An Introduction to Git and GitHub by Brian Yu (CS50 course)](https://www.youtube.com/watch?v=MJUJ4wbFm_A&ab_channel=CS50) - 
+in general, everything that was shown in the video I had already done personally at the previous stages, but it was still not superfluous to repeat the basics once again, especially since it is CS50, it can even be watched simply as a TV series ;)
+
+[Oh shit, git!](https://ohshitgit.com/) - the description of the problems is really top! (in the English version)
+Perhaps this is how the material should be presented, because it is fun, it is memorable, and you want to show it to other people, especially those who are just starting to learn git.
+The only thing that was a little disappointing was the translation into Ukrainian, as for me there are too many identical swear words that could be replaced with more funny swear words, but again, this is my personal thought, besides, there is a version without swears ;)
+
+[Flight rules for git](https://github.com/k88hudson/git-flight-rules) - great git cheat sheet for sure for any situation, just keep this link here for convenience.
+
+And video ['Creating a Simple Github Pull Request'](https://www.youtube.com/watch?v=rgbCcBNZcdQ&ab_channel=JakeVanderplas) which explains as simply and clearly as possible how to make a pull request if you find an error.
+
+-- -
