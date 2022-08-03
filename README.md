@@ -219,6 +219,8 @@ I especially liked the explanation of the topic Tracking Issues (Week 4, Managin
 [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk) - as I said earlier (in Git Basics), this is a pretty good resource with cool visualization, although this time, despite some experience, it was more difficult.
 And I also found an error in the word during the translation into Ukrainian (yes, I know that it is definitely not the most important thing, but I wanted to correct it first, and secondly to practice with pool requests), so I sent a request for a change. If for the time of the course will be answered, I will add an update to this topic.
 
+upd. In just half a day, my pool request was approved and this small change is now in production. It's cool when authors actively support their products. Let's move on!
+
 <details>
   <summary>screenshots</summary>
 
