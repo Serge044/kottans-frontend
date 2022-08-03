@@ -227,6 +227,7 @@ upd. In just half a day, my pool request was approved and this small change is n
 ![learngitbranching.js.org](https://github.com/Serge044/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.js.org.png)
 ![learngitbranching.js.org](https://github.com/Serge044/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.js.org_2.png)
 ![pull-request](https://github.com/Serge044/kottans-frontend/blob/main/task_git_collaboration/pull-request.png)
+![merged_pull-request](https://github.com/Serge044/kottans-frontend/blob/main/task_git_collaboration/merged_pull-request.png)
 
 </details>
 
