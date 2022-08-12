@@ -5,7 +5,7 @@
 - [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
 - [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
 ### Front-End Basics
-- [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
+- [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
 - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
 - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
@@ -205,7 +205,7 @@ And also a [link](https://stackoverflow.com/questions/729692/why-should-text-fil
 
 ## Git Collaboration
 
-[Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) (week 3 and 4) - 
+***[Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) (week 3 and 4)*** - 
 I especially liked the explanation of the topic Tracking Issues (Week 4, Managing Projects), and in general quite good explanations and examples, I liked this course.
 
 <details>
@@ -216,7 +216,7 @@ I especially liked the explanation of the topic Tracking Issues (Week 4, Managin
 
 </details>
 
-[learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk) - as I said earlier (in Git Basics), this is a pretty good resource with cool visualization, although this time, despite some experience, it was more difficult.
+***[learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk)*** - as I said earlier (in Git Basics), this is a pretty good resource with cool visualization, although this time, despite some experience, it was more difficult.
 And I also found an error in the word during the translation into Ukrainian (yes, I know that it is definitely not the most important thing, but I wanted to correct it first, and secondly to practice with pool requests), so I sent a request for a change with a detailed description of what and why I want to change. If for the time of the course will be answered, I will add an update to this topic.
 
 upd. In just half a day, my pool request was approved and this small change is now in production. It's cool when authors actively support their products. Let's move on!
@@ -231,15 +231,85 @@ upd. In just half a day, my pool request was approved and this small change is n
 
 </details>
 
-[An Introduction to Git and GitHub by Brian Yu (CS50 course)](https://www.youtube.com/watch?v=MJUJ4wbFm_A&ab_channel=CS50) - 
+***[An Introduction to Git and GitHub by Brian Yu (CS50 course)](https://www.youtube.com/watch?v=MJUJ4wbFm_A&ab_channel=CS50)*** - 
 in general, everything that was shown in the video I had already done personally at the previous stages, but it was still not superfluous to repeat the basics once again, especially since it is CS50, it can even be watched simply as a TV series ;)
 
-[Oh shit, git!](https://ohshitgit.com/) - the description of the problems is really top! (in the English version)
+***[Oh shit, git!](https://ohshitgit.com/)*** - the description of the problems is really top! (in the English version)
 Perhaps this is how the material should be presented, because it is fun, it is memorable, and you want to show it to other people, especially those who are just starting to learn git.
 The only thing that was a little disappointing was the translation into Ukrainian, as for me there are too many identical swear words that could be replaced with more funny swear words, but again, this is my personal thought, besides, there is a version without swears ;)
 
-[Flight rules for git](https://github.com/k88hudson/git-flight-rules) - great git cheat sheet for sure for any situation, just keep this link here for convenience.
+***[Flight rules for git](https://github.com/k88hudson/git-flight-rules)*** - great git cheat sheet for sure for any situation, just keep this link here for convenience.
 
 And video ['Creating a Simple Github Pull Request'](https://www.youtube.com/watch?v=rgbCcBNZcdQ&ab_channel=JakeVanderplas) which explains as simply and clearly as possible how to make a pull request if you find an error.
+
+-- -
+
+## Intro to HTML & CSS
+
+***[Intro to HTML & CSS (Eng)](https://www.coursera.org/learn/html-css-javascript-for-web-developers)*** - I liked the explanation of the basic terms (what is HTML, CSS, JS..), in simple words and quite clearly.
+Also discovered how to add a 'ban' on word spacing or how to add multiple spaces in a row, and some [special characters](https://www.w3schools.com/html/html_entities.asp) such as <> ”” (c) &.
+
+A good [site](https://validator.w3.org/#validate_by_input) for testing are my html tags correct or not.
+
+Learned about ':nth-child CSS', will see how useful it will be in practice.
+
+[Lecture 17, Part 1: Conflict Resolution](https://www.coursera.org/learn/html-css-javascript-for-web-developers/lecture/WDDCB/lecture-17-part-1-conflict-resolution) - really cool explanation.
+
+Lecture 22, [Part 1](https://www.coursera.org/learn/html-css-javascript-for-web-developers/lecture/AtyKw/lecture-22-part-1-relative-and-absolute-element-positioning), [Part 2](https://www.coursera.org/learn/html-css-javascript-for-web-developers/lecture/YWC0N/lecture-22-part-2-relative-and-absolute-element-positioning): Relative and Absolute Element Positioning - important stuff.
+
+```<div>``` is short for “division” or a container that divides the page into sections. Never thought about this abbreviation, now I know ;)
+
+* Paragraphs (```<p>```) contain a block of plain text.
+* ```<span>``` contains short pieces of text or other HTML. They are used to separate small pieces of content that are on the same line as other content.
+
+<details>
+  <summary>screens</summary>
+
+![coursera_week1](https://github.com/Serge044/kottans-frontend/blob/main/task_html_css_intro/coursera_week1.png)
+![coursera_week2](https://github.com/Serge044/kottans-frontend/blob/main/task_html_css_intro/coursera_week2.png)
+
+</details>
+
+<br>
+
+***[Learn HTML(Eng)](https://www.codecademy.com/learn/learn-html)*** - it's cool that you can read the theory and immediately practice and see the result, this is probably my favorite training format.
+
+The most difficult thing was to complete the task [Ordered Lists](https://www.codecademy.com/courses/learn-html/lessons/intro-to-html/exercises/ordered-lists-html), because I had to write russia with a capital letter, I hope that temporary phenomenon and it will be fixed soon ;)
+
+alt='' - alternative text, brings meaning to the images on our sites.
+
+Also a good explanation about the tables, never come across that before so it was interesting.
+
+<details>
+  <summary>screens</summary>
+
+![learn_html](https://github.com/Serge044/kottans-frontend/blob/main/task_html_css_intro/codecademy%20html%26css.png)
+
+</details>
+
+<br>
+
+***[Learn CSS(Eng)](https://www.codecademy.com/learn/learn-css)*** - good explanations about positioning, I am sure that I will return to them in future practice.
+
+<details>
+  <summary>screens</summary>
+
+![learn_css](https://github.com/Serge044/kottans-frontend/blob/main/task_html_css_intro/codecademy%20html%26css.png)
+![TheBoxModel](https://github.com/Serge044/kottans-frontend/blob/main/task_html_css_intro/TheBoxModel.png)
+![ActualRenderedWidth](https://github.com/Serge044/kottans-frontend/blob/main/task_html_css_intro/ActualRenderedWidth.png)
+![VerticalMarginCollapse](https://github.com/Serge044/kottans-frontend/blob/main/task_html_css_intro/VerticalMarginCollapse.png)
+
+</details>
+
+<br>
+
+***[Can't Unsee](https://cantunsee.space/)*** - a cool thing to train your sense of pixel perfect and generally look at good visual examples.
+
+<details>
+  <summary>screen</summary>
+
+![CantUnsee](https://github.com/Serge044/kottans-frontend/blob/main/task_html_css_intro/CantUnsee.png)
+
+</details>
 
 -- -
