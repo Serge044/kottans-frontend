@@ -6,7 +6,7 @@
 - [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
 ### Front-End Basics
 - [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
-- [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
+- [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
 - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
 - [ ] [Document Object Model](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md) - practice
@@ -309,6 +309,47 @@ Also a good explanation about the tables, never come across that before so it wa
   <summary>screen</summary>
 
 ![CantUnsee](https://github.com/Serge044/kottans-frontend/blob/main/task_html_css_intro/CantUnsee.png)
+
+</details>
+
+-- -
+
+## Responsive Web Design
+
+***[FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)*** & ***[CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)*** - it's funny that I watched almost all of Zhenia's videos (in most cases while practicing at the same time), but I missed these topics ;)
+Well, I will definitely return to them in future tasks.
+
+Also pretty cool cheat sheets: [FLEXBOX](https://fls.guru/flexbox.html) and [Grid Layout](https://fls.guru/grid.html).
+
+***[Flexbox Froggy](http://flexboxfroggy.com/#uk)*** - cool! Really cool! Practice in the format of the game is love <3
+I've desire to implement such a game on my own, but the more I think, the more difficulties and pitfalls I see, but perhaps this is the first stage - to analyze the task and break it into sub-tasks. Let's see, maybe one day I will implement this idea.
+
+<details>
+  <summary>screen</summary>
+
+![FlexboxFroggy](https://github.com/Serge044/kottans-frontend/blob/main/task_responsive_web_design/FlexboxFroggy.png)
+
+</details>
+
+<br>
+
+***[Grid Garden](http://cssgridgarden.com/)*** - In general, the same impressions as from Flexbox Froggy.
+
+<details>
+  <summary>screen</summary>
+
+![GridGarden](https://github.com/Serge044/kottans-frontend/blob/main/task_responsive_web_design/GridGarden.png)
+
+</details>
+
+<br>
+
+***[11 things I learned reading the flexbox spec](https://medium.com/hackernoon/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)*** - nice article, but the background color is so toxic to my eyes.. But I'm glad that I'm a FED beginner, and I can fix it in a couple of clicks ;)
+
+<details>
+  <summary>screen</summary>
+
+![ToxicBC](https://github.com/Serge044/kottans-frontend/blob/main/task_responsive_web_design/toxic_layout.png)
 
 </details>
 
