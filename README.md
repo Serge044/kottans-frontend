@@ -11,7 +11,7 @@
 - [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
 - [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
 - [x] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
-- [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
+- [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
 - [ ] [Document Object Model](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md) - practice
 
 ### Advanced Topics
@@ -385,5 +385,53 @@ And a little bit of material that I would like to highlight separately, which wa
 And of course, I am very grateful to my buddy, [Serhii Shytikov](https://github.com/SergeyShytikov), who gave me a lot of advises and support.
 
 Stay tuned ;)
+
+---
+
+## JavaScript Basics
+
+[Intro to javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4) - good explanations, but I think in case if it was my very first familiarity with my first programming language - then it would be difficult for me to orient myself to what, why and how to use all the stuff, the console, and how to add some "magic to the real site". I saw a lot of good explanations on Youtube for the first enter, for example, [Zheka's videos](https://www.youtube.com/watch?v=yJcCKuxfb2o&list=PLM6XATa8CAG7DDIBjNVd78Fv5Ueo930IV&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E), and I would strongly recommend getting acquainted with JS with these materials, especially now that Zheka's channel has become completely Ukrainian-language (p.s. No, I was not paid for advertising ;))
+
+I also really enjoyed [Bohdan Staschuk's](https://www.youtube.com/c/CodingTutorials) materials, especially the [11-hours video](https://youtu.be/CxgOKJh4zWE), I watched it, paused it and simultaneously rewrote the code and tested it, maked changes, then commented it and moved on. I think it was a great time investment.
+
+<details>
+  <summary>screen</summary>
+
+![Coursera](https://github.com/Serge044/kottans-frontend/blob/main/task_js_basics/Coursera.png)
+
+</details>
+
+<br>
+
+[FreeCodeCamp](https://www.freecodecamp.org/) is a great resource, similar to codecademy.
+Some things were very easy, and some of them (especially towards the end) made my brain boil))
+
+If I couldn't solve the task at all or just couldn't understand from what side to start - I watched detailed solve
+& explanation on YouTube. Thanks to the fact that FreeCodeCamp is quite popular there are a lot of materials. It helped to understand the logic much better than just looking at the solution
+
+The only minus, and in my opinion it is the most significant, the draft with the solution is saved only until the moment the task is not solved, as soon as it is solved, the solution disappears forever. But I would like to look over time to past tasks, review the solve and try to optimize it with new skills, or simply grab a piece of code for another project.
+When I understand it, I started saving solves in a draft.
+I also used the IDE for some tasks to figure out step by step how to make it works.
+
+<details>
+  <summary>screens</summary>
+
+![BasicJS](https://github.com/Serge044/kottans-frontend/blob/main/task_js_basics/BasicJS.png)
+
+![ES6](https://github.com/Serge044/kottans-frontend/blob/main/task_js_basics/ES6.png)
+
+![BasicDataStructures](https://github.com/Serge044/kottans-frontend/blob/main/task_js_basics/Basic%20Data%20Structures.png)
+
+![BasicAlgorithmScripting](https://github.com/Serge044/kottans-frontend/blob/main/task_js_basics/Basic%20Algorithm%20Scripting.png)
+
+![FunctionalProgramming](https://github.com/Serge044/kottans-frontend/blob/main/task_js_basics/Functional%20Programming.png)
+
+![IntermediateAlgorithmScripting](https://github.com/Serge044/kottans-frontend/blob/main/task_js_basics/Intermediate%20Algorithm%20Scripting.png)
+
+</details>
+
+<br>
+
+In general, the main difficulty was that there was a lot of new information in a short period of time, if it was divided into a longer period of time, it would be of course easier, but there is no time for complain. Moving on!
 
 ---
